@@ -1,1 +1,1 @@
-![dogs](dogs.jpg)
+![dogs](IMG_0003.jpg)
